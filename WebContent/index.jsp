@@ -71,7 +71,7 @@ span.psw {
 <body>
 <h2>Login Form</h2>
 <!-- Form Elements -->
-  <form>
+  <form action="LoginServlet" method="post">
   
   	<div class="imgcontainer">
     	<img src="images/user.png" alt="UserPicture" class="avatar">
